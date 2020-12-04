@@ -15,3 +15,7 @@ body{
     margin: 4em;
     border: 1px grey;
 }
+.cabecera{
+    color: red;
+    font-size: 15px;
+}
